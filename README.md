@@ -1,3 +1,3 @@
 # demo
 my first repo<br>
-hi this khan'z first project
+hi this khan'z first app
